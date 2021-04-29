@@ -1,0 +1,9 @@
+name: Menu
+main: Menu\Main
+version: 1.0.0
+api: 3.0.0
+author: Night-Max
+
+commands:
+  menu:
+    description: ouvre le menu/open a menu
